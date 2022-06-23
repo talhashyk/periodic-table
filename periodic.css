@@ -1,0 +1,62 @@
+.periodic{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px;
+    height: 100%;
+    padding-top: 10px, 10px;
+    font-weight: bolder;
+    font-size: 20px;
+       
+}
+.table{
+    empty-cells: hide;
+    text-align: center;
+    justify-content: center;
+}
+
+
+#font-color-blue{
+    color: blue;
+}
+.purple{
+    background-color: rgb(212, 205, 253);
+    color: green;
+}
+.pink{
+    background-color: rgb(240, 144, 240);
+}
+.blue{
+    background-color: rgb(64, 178, 223);
+}
+
+.yellow{
+    background-color: rgb(221, 221, 86);
+}
+.brown{
+    background-color: rgb(190, 110, 4);
+}
+
+.light-green{
+    background-color: lightgreen;
+}
+
+.light-brown{
+    background-color: rgba(236, 180, 116, 0.884);
+}
+
+.light{
+    background-color: whitesmoke;
+}
+
+.orange{
+    background-color: rgb(247, 140, 101);
+}
+
+.second-table{
+    background-color: lightpink;
+    border-color: blue;
+    empty-cells: hide;
+}
